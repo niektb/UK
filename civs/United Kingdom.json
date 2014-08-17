@@ -1,9 +1,9 @@
 {
-	"Code":"athen",
-	"Culture":"hele",
-	"Name":"Athenians",
+	"Code":"uk",
+	"Culture":"anglo",
+	"Name":"United Kingdom",
 	"Emblem":"session/portraits/emblems/emblem_athenians.png",
-	"History":"As the cradle of Western civilization and the birthplace of democracy, Athens was famed as a center for the arts, learning and philosophy. The Athenians were also powerful warriors, particularly at sea. At its peak, Athens dominated a large part of the Hellenic world for several decades.",
+	"History":"The United Kingdom, circa 1920s",
 	"Music":[
 			{"File":"Harvest_Festival.ogg", "Type":"peace"},
 			{"File":"Forging_a_City-State.ogg", "Type":"peace"},
@@ -12,8 +12,8 @@
 	"Factions":
 	[
 		{
-			"Name":"Athenians",
-			"Description":"A Hellenic people of the Ionian tribe.",
+			"Name":"United Kingdom",
+			"Description":"Island nation of Anglo-Saxons.",
 			"Technologies":
 			[
 				{
@@ -61,9 +61,9 @@
 	"CivBonuses":
 	[
 		{
-			"Name":"Silver Owls",
-			"History":"The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl.",
-			"Description":"Metal mining gathering rates increased by +10% for each passing age."
+			"Name":"American Allies",
+			"History":"The Americans provided arms, ammunition, and supplies constantly throughout the war",
+			"Description":"Trade income bonus, American Embassy slowly provides resources."
 		},
 		{
 			"Name":"Hellenization",
@@ -74,9 +74,9 @@
 	"TeamBonuses":
 	[
 		{
-			"Name":"Delian League",
-			"History":"Shortly after the great naval victories at Salamis and Mykale, the Greek city-states instituted the so-called Delian League in 478 B.C., whose purpose was to push the Persians out of the Aegean region. The allied states contributed ships and money, while the Athenians offered their entire navy.",
-			"Description":"Ships construct 25% faster."
+			"Name":"The Allies",
+			"History":"The Allies consisted mainly of France, Great Britain, and the United States, who constantly shared resources and information",
+			"Description":"Resources are gathered faster and technologies are researched faster."
 		}
 	],
 	"Structures":
